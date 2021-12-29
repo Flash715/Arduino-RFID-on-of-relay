@@ -1,4 +1,4 @@
-# Arduino-RFID-ON/OF-relay
+# Arduino-RFID-ON/OF-Relay
 ## Final Project Microcontroller SMT 5 Univ Amikom Purwokerto.
 
 Schematic :
